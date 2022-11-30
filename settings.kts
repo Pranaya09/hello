@@ -33,7 +33,7 @@ project {
 }
 
 object KotBuild : BuildType({
-    name = "kotbuild"
+    name = "kotlinbuild"
 
     vcs {
         root(DslContext.settingsRoot)
